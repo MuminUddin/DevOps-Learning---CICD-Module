@@ -1,8 +1,7 @@
 # DevOps-Learning—CICD-Module
 
-## What's here? 📚
-1. **Assignment 1:** Flask container build and push (Docker + GitHub Actions)
-2. **Assignment 2:** CI checks for quality (linting + basic tests)
+## What's here?
+**Assignment 1:** Flask container build and push (Docker + GitHub Actions)
 
 ## Assignment 1 Overview
 A minimal Flask app and a GitHub Actions workflow that builds a Docker image and pushes it to Docker Hub on each push to `main`.
@@ -22,3 +21,4 @@ A minimal Flask app and a GitHub Actions workflow that builds a Docker image and
 └── .github/workflows
   └── docker-build-push.yml
 ```
+
